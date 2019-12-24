@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
 
 * {
 	text-align: center;
@@ -14,7 +15,7 @@ li {
 body {
 	color: rgb(186, 186, 9);
 	background-color: black;
-	font-family: 'Fontdiner Swanky', 'Source Sans Pro', sans-serif;
+	font-family: 'Oswald', sans-serif;
 	margin: 0px;
 }
 footer {
@@ -26,7 +27,7 @@ footer {
 .navbar {
 	overflow: hidden; 
 	background-color: skyblue;
-	font-family: 'Fontdiner Swanky', 'Source Sans Pro', sans-serif;
+	font-family: 'Oswald', sans-serif;
 	display: block;
 }
 
@@ -128,7 +129,7 @@ ul li a {
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;
-  font-family: 'Fontdiner Swanky', 'Source Sans Pro', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 .button span {
